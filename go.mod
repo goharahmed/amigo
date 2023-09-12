@@ -1,3 +1,3 @@
-module github.com/ivahaev/amigo
+module github.com/goharahmed/amigo
 
-go 1.13
+go 1.20
